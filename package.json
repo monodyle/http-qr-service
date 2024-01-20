@@ -14,11 +14,7 @@
     "build": "swc src -d dist"
   },
   "dependencies": {
-    "@resvg/resvg-js": "2.6.0",
-    "@vercel/og": "0.6.2",
-    "easyqrcodejs-nodejs": "4.5.1",
-    "satori": "0.10.11",
-    "satori-html": "0.3.2"
+    "sqrc": "0.1.1"
   },
   "devDependencies": {
     "@swc-node/register": "1.6.8",
